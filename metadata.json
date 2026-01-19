@@ -1,0 +1,7 @@
+{
+  "name": "Hệ thống Quản lý Thiết bị Điện lạnh BVCR",
+  "description": "Ứng dụng chuyên dụng để quản lý, kiểm tra hằng ngày và báo cáo sự cố thiết bị điện lạnh, nước uống và tủ lạnh dựa trên dữ liệu Google Sheets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
